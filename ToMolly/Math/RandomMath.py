@@ -2,8 +2,6 @@
 
 import random
 import time
-import sys
-from operator import add, sub
 
 count = 0
 right = 0
@@ -50,6 +48,7 @@ while True:
         print('回答错误')
         count += 1
 
+#计算成绩
 percent = right / count
 print('测试结束,共回答%d道题,正确个数为%d,正确率为%.2f%%' % (count, right, percent * 100))
 
