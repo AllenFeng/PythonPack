@@ -1,0 +1,36 @@
+{"data V1.0": [
+        {
+            "id": "1",
+            "device": "iOS",
+            "input": [
+                {
+                    "inputReal": "aaaaaaaaa",
+                    "inputTotal": "bbbbbbb"
+                }
+            ],
+            "sceneType": "1"
+        },
+        {
+            "id": "2",
+            "device": "Android",
+            "input": [
+                {
+                    "inputReal": "cccccccc",
+                    "inputTotal": "ddddddd"
+                }
+            ],
+            "sceneType": "1"
+        },
+        {
+            "id": "3",
+            "device": "PC",
+            "input": [
+                {
+                    "inputReal": "eeeeeeee",
+                    "inputTotal": "fffffff"
+                }
+            ],
+            "sceneType": "1"
+        }
+    ]
+}

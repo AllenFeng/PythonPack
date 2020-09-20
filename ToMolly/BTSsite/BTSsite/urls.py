@@ -21,5 +21,4 @@ from BTSsite import views
 """urlpatterns = [
     path('admin/', admin.site.urls),
 ]"""
-urlpatterns = [path('hello/', views.hello, name='hello'),
-               path('time/',views.current_datetime, name='time')]
+urlpatterns = [path('', views.hello, name='hello')]
